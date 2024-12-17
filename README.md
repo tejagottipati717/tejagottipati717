@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/teja-gottipati-50680b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja-gottipati" height="30" width="40" /></a>
+<a href="https://twitter.com/gottipatiteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gottipatiteja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gottipati-teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gottipati-teja" height="30" width="40" /></a>
 <a href="https://instagram.com/teja_tej_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teja_tej_1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tejateja717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejateja717" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
