@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Software developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🌱 I’m currently learning **Python Full Stack**
--🔧 Focused on improving my skills and creating meaningful projects.
+- 🌱 I’m currently learning **Python Full Stack**<br>
+-🔧 Focused on improving my skills and creating meaningful projects.<br>
 -💡 Always up for a challenge and open to new ideas.
 -📫 How to reach me **tejateja717@gmail.com**
 
