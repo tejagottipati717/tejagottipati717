@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python Full Stack**<br>
 -🔧 Focused on improving my skills and creating meaningful projects.<br>
--💡 Always up for a challenge and open to new ideas.
+-💡 Always up for a challenge and open to new ideas.<br>
 -📫 How to reach me **tejateja717@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
