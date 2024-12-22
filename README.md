@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Software developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <ul>
-        <li>🌱 I’m currently learning **Python Full Stack**</li>
+        <li>🌱 I’m currently learning <b>Python Full Stack</b></li>
         <li>🔧 Focused on improving my skills and creating meaningful projects.</li>
         <li>💡 Always up for a challenge and open to new ideas.</li>
-        <li>📫 How to reach me **tejateja717@gmail.com**</li>
+        <li>📫 How to reach me <a href="">tejateja717@gmail.com</a>.</li>
     </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
